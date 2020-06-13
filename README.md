@@ -2,7 +2,7 @@
 
 ### Utility:
  This project is targeting the lifecycle issues of system objects
- running on a limited-memory platform (FPGA with ARM core) - providing\
+ running on a limited-memory platform (FPGA with ARM core) - providing
  a solution for memory management using the RAII principle.
 
 ### Prerequisites:
